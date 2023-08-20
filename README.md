@@ -1,4 +1,3 @@
-Spwai
 Minecraft Resource Modification Coder
 
 <!---
